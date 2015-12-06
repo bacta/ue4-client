@@ -6,7 +6,7 @@ Clone the repository to your Unreal Projects folder.
 Create a symbolic link to the Dropbox location.
 
 ###Windows
-Run a command-line console instance as Administrator, then enter the following command after replacing `<username`> with your windows profile name):
+Run a command-line console instance as Administrator, then enter the following command after replacing `<username>` with your windows profile name):
 ```
 mklink /J "c:\users\<username>\documents\unreal projects\ue4-client\Content" "c:\users\<username>\dropbox\Content"
 ```
