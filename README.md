@@ -1,6 +1,7 @@
 # ue4-client
 Unreal Engine 4 client.
 
+Clone the repository to your Unreal Projects folder.
 
 Create a symbolic link to the Dropbox location.
 
